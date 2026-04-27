@@ -1,0 +1,10 @@
+pandas==2.2.2
+numpy==1.26.4
+faker==24.11.0
+sqlalchemy==2.0.30
+snowflake-sqlalchemy==1.5.1
+python-dotenv==1.0.1
+pytest==8.2.0
+pytest-cov==5.0.0
+loguru==0.7.2
+great-expectations==0.18.15
