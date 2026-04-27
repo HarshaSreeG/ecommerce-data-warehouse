@@ -2,7 +2,7 @@
 
 A production-style data warehousing project that ingests raw e-commerce CSV data, transforms it through a Python ETL pipeline, loads it into a **star-schema SQL warehouse**, and surfaces insights through an executive **Tableau / Power BI** dashboard.
 
-> Built by **Harsha Sree Gudapati** — Python Developer | SQL Developer | BI Analyst
+> Built by **Harsha Sree Gudapati** 
 
 ---
 
@@ -181,6 +181,4 @@ See [`docs/data_dictionary.md`](docs/data_dictionary.md) for full column definit
 ## 👩‍💻 Author
 
 **Harsha Sree Gudapati**  
-Python Developer | SQL Developer | BI Analyst  
-MS Information Technology — University of Cincinnati  
-📧 harshasreegudapati@gmail.com
+
