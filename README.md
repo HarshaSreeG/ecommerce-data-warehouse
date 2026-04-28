@@ -107,7 +107,7 @@ ecommerce-data-warehouse/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/HarshaSreeG/ecommerce-data-warehouse.git
+git clone https://github.com/YOUR USERNAME/ecommerce-data-warehouse.git
 cd ecommerce-data-warehouse
 
 python -m venv venv
