@@ -2,8 +2,6 @@
 
 A production-style data warehousing project that ingests raw e-commerce CSV data, transforms it through a Python ETL pipeline, loads it into a **star-schema SQL warehouse**, and surfaces insights through an executive **Tableau / Power BI** dashboard.
 
-> Built by **Harsha Sree Gudapati** 
-
 ---
 
 ## 📐 Architecture
@@ -109,7 +107,7 @@ ecommerce-data-warehouse/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ecommerce-data-warehouse.git
+git clone https://github.com/HarshaSreeG/ecommerce-data-warehouse.git
 cd ecommerce-data-warehouse
 
 python -m venv venv
@@ -178,7 +176,7 @@ See [`docs/data_dictionary.md`](docs/data_dictionary.md) for full column definit
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Built By
 
 **Harsha Sree Gudapati**  
 
